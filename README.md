@@ -1,3 +1,6 @@
+Your markdown file looks great, but I’ve made a few formatting tweaks and improvements to ensure consistency and readability. Here’s the updated version:
+
+```markdown
 # Multi-Upload Image Captioning App Using Hugging Face's BLIP Transformers and Gradio
 
 ## Description
@@ -35,7 +38,7 @@ To run this project locally, you need to have Python installed. You also need to
 
 2. Navigate to the project directory:
    ```bash
-   cd multi-upload-image-captioning-app
+   cd multi-upload-image-captioning-app-using-blip-gradio
    ```
 
 3. Install the required dependencies using pip:
@@ -107,25 +110,3 @@ For any questions or inquiries, please contact the project maintainer:
 **Karan Heera**  
 - LinkedIn: [https://www.linkedin.com/in/karanheera/](https://www.linkedin.com/in/karanheera/)  
 - GitHub: [https://github.com/karanheera](https://github.com/karanheera)
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
