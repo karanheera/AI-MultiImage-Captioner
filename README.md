@@ -1,6 +1,3 @@
-Your markdown file looks great, but I’ve made a few formatting tweaks and improvements to ensure consistency and readability. Here’s the updated version:
-
-```markdown
 # Multi-Upload Image Captioning App Using Hugging Face's BLIP Transformers and Gradio
 
 ## Description
