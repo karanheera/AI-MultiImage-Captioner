@@ -30,7 +30,7 @@ To run this project locally, you need to have Python installed. You also need to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/multi-upload-image-captioning-app-using-blip-gradio.git
+   git clone https://github.com/karanheera/multi-upload-image-captioning-app-using-blip-gradio.git
    ```
 
 2. Navigate to the project directory:
