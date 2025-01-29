@@ -35,7 +35,7 @@ To run this project locally, you need to have Python installed. You also need to
 
 2. Navigate to the project directory:
    ```bash
-   cd Auto-Image-Captions-via-Upload-GenAI-App.git
+   cd Auto-Image-Captions-via-Upload-GenAI-App
    ```
 
 3. Install the required dependencies using pip:
