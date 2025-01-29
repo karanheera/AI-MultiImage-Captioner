@@ -89,7 +89,7 @@ This project was developed with the following libraries and technologies:
 - **[Pandas](https://pandas.pydata.org/)**: A library used for handling and storing data in tabular form (CSV in this case).
 - **[NumPy](https://numpy.org/)**: A fundamental package for scientific computing with Python.
 
-Special thanks to **IBM Skills Network Labs** for their course on Building Generative AI-Powered Applications with Python and educational resources that inspired this project.
+Special thanks to **IBM** for their course on Building Generative AI-Powered Applications with Python and educational resources that inspired this project.
 
 ## Contributing
 
