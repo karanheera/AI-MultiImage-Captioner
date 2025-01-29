@@ -1,4 +1,4 @@
-# Auto Image Captions via Upload-GenAI App : Using Hugging Face's BLIP Transformers and Gradio
+# Auto Image Captions via Upload-GenAI App : \n (Using Hugging Face's BLIP Transformers and Gradio)
 
 ## Description
 
