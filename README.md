@@ -2,7 +2,7 @@
 
 ## Description
 
-This app generates captions for multiple uploaded images using the **BLIP** model from Hugging Face's **Transformers** library. Users can upload one or more images, and the app will process them to generate captions. The app also provides the option to download the captions along with the filenames in a CSV format for further analysis or reporting.
+This Generative AI app generates captions for multiple uploaded images using the **BLIP** model from Hugging Face's **Transformers** library. Users can upload one or more images, and the app will process them to generate captions. The app also provides the option to download the captions along with the filenames in a CSV format for further analysis or reporting.
 
 ### Key Features:
 - **Image Captioning**: Automatically generates captions for uploaded images using the BLIP model.
@@ -30,12 +30,12 @@ To run this project locally, you need to have Python installed. You also need to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karanheera/multi-upload-image-captioning-app-using-blip-gradio.git
+   git clone https://github.com/karanheera/Auto-Image-Captions-via-Upload-GenAI-App.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd multi-upload-image-captioning-app-using-blip-gradio
+   cd Auto-Image-Captions-via-Upload-GenAI-App.git
    ```
 
 3. Install the required dependencies using pip:
