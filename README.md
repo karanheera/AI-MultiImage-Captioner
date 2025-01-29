@@ -1,4 +1,4 @@
-# Multi-Upload Image Captioning App Using Hugging Face's BLIP Transformers and Gradio
+# Auto Image Captions via Upload-GenAI App : Using Hugging Face's BLIP Transformers and Gradio
 
 ## Description
 
