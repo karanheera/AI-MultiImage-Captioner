@@ -1,4 +1,4 @@
-# Auto Image Captions via Upload-GenAI App : <br> (Using Hugging Face's BLIP Transformers and Gradio)
+# AI-MultiImage-Captioner : <br> (Using Hugging Face's BLIP Transformers and Gradio)
 
 ## Description
 
@@ -30,12 +30,12 @@ To run this project locally, you need to have Python installed. You also need to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karanheera/Auto-Image-Captions-via-Upload-GenAI-App.git
+   git clone https://github.com/karanheera/AI-MultiImage-Captioner.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Auto-Image-Captions-via-Upload-GenAI-App
+   cd AI-MultiImage-Captioner
    ```
 
 3. Install the required dependencies using pip:
