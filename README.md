@@ -30,12 +30,12 @@ To run this project locally, you need to have Python installed. You also need to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karanheera/AI-MultiImage-Captioner.git
+   git clone https://github.com/karanheera/AI-MultiImage-Captioner-using-BLIP.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd AI-MultiImage-Captioner
+   cd AI-MultiImage-Captioner-using-BLIP
    ```
 
 3. Install the required dependencies using pip:
