@@ -63,7 +63,7 @@ iface = gr.Interface(
         gr.Textbox(label="Generated Captions", interactive=True, lines=10, placeholder="Captions will appear here..."),
         gr.File(label="Download Captions as CSV")  # Output captions and CSV file
     ],
-    title="Multi-Upload Image Captioning App by Karan Heera",
+    title="Multi-Upload Image Captioning App",
     description=(
         "This app is a multi-upload image captioning tool powered by the BLIP model from Hugging Face's Transformers. "
         "Simply upload one or more images, and the app will generate a caption for each, showing the image's filename. "
